@@ -15,3 +15,9 @@ Feature ideas to implement.
 <h2>🚀 Demo</h2>
 
 [https://rajat-porwal.github.io/whatToDo/](https://rajat-porwal.github.io/whatToDo/)
+
+## Author
+
+[Rajat Porwal](https://github.com/rajat-porwal) - [LinkedIn](https://www.linkedin.com/in/rajatporwal/) - rajatporwal@protonmail.com
+
+<p align="right">(<a href="#top">back to top</a>)</p>
